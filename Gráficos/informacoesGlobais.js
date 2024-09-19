@@ -15,4 +15,3 @@ async function visualizarInformacoesGlobais() {
     container.appendChild(paragrafo)
 }
 visualizarInformacoesGlobais()
-Desenvolvido por: Anny, Mariane, Flávio
