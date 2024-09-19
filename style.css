@@ -2,8 +2,8 @@
 
 :root {
 
-    --cor-de-fundo: hsla(17, 100%, 63%, 0.979);
-    --cor-principal: #ff9c4b;
+    --cor-de-fundo: hsl(0, 0%, 0%);
+    --cor-principal: hsl(91, 100%, 50%);
     --cor-secundaria: #000000;
     --fonte: "Sofadi One", system-ui;
     --cor-barra: #fd624e;
