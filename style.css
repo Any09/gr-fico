@@ -5,7 +5,8 @@
     --cor-de-fundo: hsl(0, 66%, 39%);
     --cor-principal: hsl(56, 100%, 48%);
     --cor-secundaria: #0027d4;
-    --cor-de-fundo: hsl(103, 66%, 39%);
+    --fonte: "Sofadi One", system-ui;
+    --cor-barra: #f898f8;
     
 }
 
