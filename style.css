@@ -3,7 +3,7 @@
 :root {
 
     --cor-de-fundo: hsl(212, 100%, 65%);
-    --cor-principal: hsl(0, 100%, 50%);
+    --cor-principal: hsl(271, 69%, 45%);
     --cor-secundaria: #67e8ff;
     --fonte: "Sofadi One", system-ui;
     --cor-barra: #002fff;
@@ -11,7 +11,9 @@
 }
 
 body {
-    background-image: url(https://www.espro.org.br/wp-content/uploads/2020/11/20.11.20_destaque-blog-espro_por-que-o-dia-da-consciencia-negra-e-importante.jpg);
+    background-image: url(https://www.espro.org.br/wp-content/uploads/2020/11/20.11.20_destaque-blog-espro_por-que-o-dia-da-consciencia-negra-e-importante.jpg0
+    0
+    );
     color: var(--cor-principal);
     font-family: var(--fonte);
     height: 100vh;
