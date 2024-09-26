@@ -21,7 +21,7 @@ async function quantidadeUsuarios() {
         plot_bgcolor: getCSS('--cor-de-fundo'),
         paper_bgcolor: getCSS('--cor-de-fundo'),
         title: {
-            text: 'Linha temporal de africanos vindos para o Brasil ao longo dos anos(1531-1780).',
+            text: 'Linha temporal de africanos vindos para o Brasil ao longo dos anos.',
             font: {
                 color: getCSS('--cor-principal'),
                 family: getCSS('--fonte'),
