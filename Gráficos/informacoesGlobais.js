@@ -10,7 +10,7 @@ async function visualizarInformacoesGlobais() {
     const porcentagemConectada = ((pessoasConectadas/pessoasMundo)*100).toFixed(2)
     const paragrafo = document.createElement('p')
     paragrafo.classList.add('graficos-container__texto')
-    paragrafo.innerHTML = `Você sabia que o mundo tem <span> ${total_pessoas_mundo} bilhões </span> de pessoas, e que cerca de <span> ${pessoasConectadas} milhões </span> de pessoas africanas vieram para o Brasil entre os anos de (1531-1780).`
+    paragrafo.innerHTML = ``
     const container = document.getElementById('graficos-container')
     container.appendChild(paragrafo)
 }
